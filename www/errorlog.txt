@@ -1,0 +1,5 @@
+PDOException: SQLSTATE[08001]: [Microsoft][ODBC Driver 17 for SQL Server]TCP Provider: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+ in D:\Almacen\Descargas\phpdesktop-chrome-57.0-rc-php-7.1.3\phpdesktop-chrome\www\index.php:7
+Stack trace:
+#0 D:\Almacen\Descargas\phpdesktop-chrome-57.0-rc-php-7.1.3\phpdesktop-chrome\www\index.php(7): PDO->__construct('sqlsrv:Server=l...', 'mosquedacordova', 'testeando')
+#1 {main}
